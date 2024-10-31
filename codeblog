@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Blog</title>
+    </head>
+    
+    <body>
+        <a href="index.html">Index Page</a>
+        <h1>My Code Blog</h1>
+
+        <div>
+            <h2>Entry 1</h2>
+            <h3>10/14/2024</h3>
+            <p>
+                This assignment was challenging in using VS Code with Github.
+                I was able to using the terminal within VS Code to clone my repository
+                 and then push the assignment. But, I am unsure if there is a way to 
+                 connect my engineering server terminal to open VS code. The teacher was
+                  the biggest resource in completing this assignment. 
+            </p>
+        </div>
+
+    </body>
+</html>
